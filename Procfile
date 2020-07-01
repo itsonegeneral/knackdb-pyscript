@@ -1,1 +1,1 @@
-worker: python datamanager,py
+worker: python datamanager.py
